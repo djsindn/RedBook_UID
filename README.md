@@ -1,6 +1,6 @@
 
 # 小红书截流项目
-## 已更新![新版本](https://github.com/djsindn/RedBook_UID/releases/tag/redbook)，此版本不再维护 
+## 已更新![新版本](https://github.com/djsindn/RedBook_UID/releases/tag/redbookV2.0)，此版本不再维护 
 ## 实现效果
 ![image](https://github.com/user-attachments/assets/7d2383ab-0d39-4298-83b5-c5c25206df0f)
 
